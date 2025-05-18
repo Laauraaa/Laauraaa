@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Laura 👋</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação | Desenvolvedora Fullstack| Apaixonada por resolver problemas com código e criar experiências web ✨
+  Estudante de Ciência da Computação | Desenvolvedora Fullstack | Apaixonada por resolver problemas com código e criar experiências web ✨
 </p>
 
 ---
