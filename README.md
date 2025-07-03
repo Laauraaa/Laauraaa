@@ -8,8 +8,8 @@
 
 ## 🚀 Sobre mim
 
-🎓 Atualmente estou no 4º semestre de Ciência da Computação.  
-💡 Tenho interesse especial em Front End, com foco em Angular e React, mas também exploro Node.js e consumo de APIs.  
+🎓 Atualmente estou no 5º semestre de Ciência da Computação.  
+💡 Tenho interesse especial em Angular e Node.js, mas também exploro React e consumo de APIs.  
 💻 Gosto de participar de projetos que me desafiam a aplicar na prática o que aprendo na faculdade e por conta própria.   
 🔍 Estou em busca de oportunidades para aplicar meus conhecimentos e crescer na área de desenvolvimento.  
 
